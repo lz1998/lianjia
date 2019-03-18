@@ -1,0 +1,6 @@
+scrapy
+scrapyd
+scrapyd-client
+logparser
+pymysql
+sqlalchemy
